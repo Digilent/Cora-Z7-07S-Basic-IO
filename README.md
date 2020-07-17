@@ -8,13 +8,13 @@ This project is a Vivado demo using the Cora Z7-07S's RGB LED's and pushbuttons,
 Requirements
 --------------
 * **Cora-Z7-07S**:To purchase a Cora-Z7-07S, see the [Digilent Store](https://store.digilentinc.com/cora-z7-zynq-7000-single-core-and-dual-core-options-for-arm-fpga-soc-development//)
-* **Vivado 2018.2 Installation**:To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
+* **Vivado 2020.1 Installation**:To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **MicroUSB Cable**
  
 Demo Setup
 --------------
 1. Download and extract the most recent release ZIP archive from this repository's [Releases Page](https://github.com/Digilent/Cora-Z7-07S-Basic-IO/releases).
-2. Open the project in Vivado 2018.2 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Cora-Z7-07S-Basic-IO.xpr".
+2. Open the project in Vivado 2020.1 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Cora-Z7-07S-Basic-IO.xpr".
 3. In the Flow Navigator panel on the left side of the Vivado window, click **Open Hardware Manager**.
 4. Plug the Cora-Z7-07S into the computer using a MicroUSB cable.
 5. In the green bar at the top of the Vivado window, click **Open target**. Select **Auto connect** from the drop down menu.
