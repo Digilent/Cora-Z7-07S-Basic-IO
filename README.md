@@ -1,6 +1,8 @@
 Cora-Z7-07S-Basic-IO Demo
 ==============
 
+IMPORTANT: This repository is obsolete. See the [new demo page](https://digilent.com/reference/programmable-logic/cora-z7/demos/basic-io) on Digilent Reference for information about this demo. The sources have been moved into the [07S/Basic-IO/master](https://github.com/Digilent/Cora-Z7/tree/07S/Basic-IO/master) branch of the Cora-Z7 repository.
+
 Description
 --------------
 This project is a Vivado demo using the Cora Z7-07S's RGB LED's and pushbuttons, written in Verilog. When programmed onto the board, the RGB LEDs will cycle from Blue to Green to Red to Black. As long as one of the two buttons is pushed, the corresponding RGB LED will be turned off.
